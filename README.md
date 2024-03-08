@@ -4,7 +4,7 @@ This web app is a (mocked) developer jobs listing site. Users can search for job
 
 ### Live Demo
 
-🚀 [Deployed App](https://adorable-alpaca-19fac1.netlify.app/)
+🚀 [Deployed App](https://leshaebriscoe-devjobs.netlify.app/)
 
 #### 🛠️ Build with
 
@@ -14,10 +14,3 @@ This web app is a (mocked) developer jobs listing site. Users can search for job
 - React Router DOM
 - React Icons
 
-#### 💻 Run this project
-
-```
-git clone [repo]
-npm install
-npm run dev
-```
